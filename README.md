@@ -15,3 +15,6 @@ Simple skill Alexa (Hello world: es/en)
 3. Enriching request attributes with t function
 4. Attribute manager as key/value store
 5. High level attribute type (request(short term), session(med term), persistent(long term))
+
+## Utils
+[https://developer.amazon.com/blogs/alexa/post/285a6778-0ed0-4467-a602-d9893eae34d7/how-to-localize-your-alexa-skills](https://developer.amazon.com/blogs/alexa/post/285a6778-0ed0-4467-a602-d9893eae34d7/how-to-localize-your-alexa-skills)
